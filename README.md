@@ -95,7 +95,7 @@ Your website is the foundation of your business. If it’s slow, insecure, or ou
 
 
 
-🔗 Explore My Work & Let’s Talk: [Email: hasansheikh8123@gmail.com]
+🔗 Explore My Work & Let’s Talk: [Email: lumendev8@gmail.com]
 
 "Don’t just compete—dominate with AI and cutting-edge web tech." 🚀
 
