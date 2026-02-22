@@ -82,7 +82,7 @@ Your website is the foundation of your business. If it’s slow, insecure, or ou
 
 🔹 E-commerce platforms with personalized recommendations.
 
-🔹 Automated workflows (AI + Zapier/Make).
+🔹 Automated workflows (With AI tools).
 
 
 
