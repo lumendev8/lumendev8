@@ -63,6 +63,8 @@ Your website is the foundation of your business. If it’s slow, insecure, or ou
 
 
 # My Development Process:
+<!-- Programmer GIF -->
+<img align="right" alt="coding" width="330" src="https://github.com/mubasharghazi/mubasharghazi/blob/main/photo.gif">
 
 🔹 SEO Audit - Identify technical issues hurting your rankings.
 
@@ -73,8 +75,6 @@ Your website is the foundation of your business. If it’s slow, insecure, or ou
 🔹 Launch & Optimize - Continuous improvement for maximum results.
 
 
-<!-- Programmer GIF -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # Portfolio Highlights:
 
@@ -119,9 +119,6 @@ Your website is the foundation of your business. If it’s slow, insecure, or ou
 ![](https://github-readme-stats.vercel.app/api?username=Hasan8123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Hasan8123&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan8123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hasan8123&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
