@@ -66,6 +66,8 @@ Your website is the foundation of your business. If it’s slow, insecure, or ou
 <!-- Programmer GIF -->
 <img align="right" alt="coding" width="330" src="https://github.com/mubasharghazi/mubasharghazi/blob/main/photo.gif">
 
+
+
 🔹 SEO Audit - Identify technical issues hurting your rankings.
 
 🔹 AI Strategy Session - Plan intelligent automation for your business.
@@ -73,6 +75,7 @@ Your website is the foundation of your business. If it’s slow, insecure, or ou
 🔹 Development Sprint - Build your high-performance solution.
 
 🔹 Launch & Optimize - Continuous improvement for maximum results.
+
 
 
 
